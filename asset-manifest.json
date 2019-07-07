@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.2cce8147.chunk.css",
-    "main.js": "/static/js/main.28647029.chunk.js",
-    "main.js.map": "/static/js/main.28647029.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.b41502e9.chunk.js": "/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.054774adbe886ee6e3c29227ef1745b5.js": "/precache-manifest.054774adbe886ee6e3c29227ef1745b5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/backgammon.js/static/css/main.2cce8147.chunk.css",
+    "main.js": "/backgammon.js/static/js/main.d9f0e88e.chunk.js",
+    "main.js.map": "/backgammon.js/static/js/main.d9f0e88e.chunk.js.map",
+    "runtime~main.js": "/backgammon.js/static/js/runtime~main.fd64aa03.js",
+    "runtime~main.js.map": "/backgammon.js/static/js/runtime~main.fd64aa03.js.map",
+    "static/js/2.b41502e9.chunk.js": "/backgammon.js/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/backgammon.js/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/backgammon.js/index.html",
+    "precache-manifest.c17956bc4966b3ea87f80f55b1044d90.js": "/backgammon.js/precache-manifest.c17956bc4966b3ea87f80f55b1044d90.js",
+    "service-worker.js": "/backgammon.js/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/backgammon.js/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/backgammon.js/static/media/logo.5d5d9eef.svg"
   }
 }
