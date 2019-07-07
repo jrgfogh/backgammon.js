@@ -1,26 +1,42 @@
 // @flow
 
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <div className="background">
+        <div className="point down red"></div>
+        <div className="point down white"></div>
+        <div className="point down red"></div>
+        <div className="point down white"></div>
+        <div className="point down red"></div>
+        <div className="point down white"></div>
+        
+        <div className="point up white"></div>
+        <div className="point up red"></div>
+        <div className="point up white"></div>
+        <div className="point up red"></div>
+        <div className="point up white"></div>
+        <div className="point up red"></div>
+      </div>
+      <div className="bar"></div>
+      <div className="background">
+        <div className="point down red"></div>
+        <div className="point down white"></div>
+        <div className="point down red"></div>
+        <div className="point down white"></div>
+        <div className="point down red"></div>
+        <div className="point down white"></div>
+        
+        <div className="point up white"></div>
+        <div className="point up red"></div>
+        <div className="point up white"></div>
+        <div className="point up red"></div>
+        <div className="point up white"></div>
+        <div className="point up red"></div>
+      </div>
     </div>
   );
 }
