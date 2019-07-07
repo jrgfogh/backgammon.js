@@ -1,6 +1,7 @@
 {
   "name": "backgammon",
   "version": "0.1.0",
+  "homepage": "https://jrgfogh.github.io/backgammon.js",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
